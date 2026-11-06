@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OLatency
+Comment=Latency + Jitter Monitor
+Exec=OLatency
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=ONet;
+Keywords=OLatency;owlsec;security;net;jitter;
